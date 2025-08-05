@@ -36,7 +36,7 @@ Bu projede, FlyNetPlus havayolu firmasının Business Class müşterilerinin mem
 ---
 
 ### 5. [Telco Customer – Churn & Segmentasyon Analysis](05_TelcoCustomer_Churn_Segmentasyon_Analysis.xlsx)
-gerçekleştirilmiştir. «SeniorCitizen», «Tenure» ve «Contract» değişkenleri yeniden isimlendirilerek analiz kolaylaştırılmış, teknolojik ürün kullanımı baz alınarak yeni bir kategori oluşturulmuştur. Bu dört değişkene göre segmentler tanımlanmış, churn oranları hesaplanmış ve segmentlerin «Tenure», «MRR» ve «Churn» bilgilerini içeren bubble grafikler hazırlanmıştır.  Son olarak, churn oranı yüksek bir segment seçilerek bu segmentin kayıp oranını azaltmaya yönelik öneriler içeren AI tabanlı bir strateji hikayesi geliştirilmiştir<img width="1345" height="180" alt="image" src="https://github.com/user-attachments/assets/5cb5b38b-3ecf-43dd-a78e-48aa449a4db5" />
+gerçekleştirilmiştir. «SeniorCitizen», «Tenure» ve «Contract» değişkenleri yeniden isimlendirilerek analiz kolaylaştırılmış, teknolojik ürün kullanımı baz alınarak yeni bir kategori oluşturulmuştur. Bu dört değişkene göre segmentler tanımlanmış, churn oranları hesaplanmış ve segmentlerin «Tenure», «MRR» ve «Churn» bilgilerini içeren bubble grafikler hazırlanmıştır.  Son olarak, churn oranı yüksek bir segment seçilerek bu segmentin kayıp oranını azaltmaya yönelik öneriler içeren AI tabanlı bir strateji hikayesi geliştirilmiştir.
 
 
 ---
