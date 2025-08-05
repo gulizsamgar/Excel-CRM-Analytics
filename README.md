@@ -20,7 +20,7 @@ Bu çalışma, Digital Ads veri seti kullanılarak dijital reklamların satış 
 
 ---
 
-### 3. [Online Retail – Market Basket Size & RFM Analysis](https://docs.google.com/spreadsheets/d/1YO1oSpYl0A8E2BBA05ZN2ZUkdytFymez/edit?usp=drive_link&ouid=109156094529518174311&rtpof=true&sd=true)
+### 3. [Online Retail – Market Basket & RFM Analysis](https://docs.google.com/spreadsheets/d/1YO1oSpYl0A8E2BBA05ZN2ZUkdytFymez/edit?usp=drive_link&ouid=109156094529518174311&rtpof=true&sd=true)
 **Google Drive bağlantılıdır.**  
 Bu analiz, Online Retail 2010–2011 veri seti üzerinden sepet analizi ve müşteri segmentasyonu odaklı bir CRM çalışması sunmaktadır. JAM MAKING SET WITH JARS ürününü satın alan müşterilerin alışveriş sepetleri incelenmiş, birlikte en sık satın alınan üç yancı ürün tespit edilerek bundle önerileri geliştirilmiştir. Bu ürünlerin fiyatlandırması ve pazarlama hikayesi oluşturulmuştur. Ayrıca JAM MAKING SET WITH JARS ürününü alan müşteriler özelinde, RFM skorları hesaplanmış ve sadakat potansiyeli taşıyan müşteriler belirlenmiştir. Segment bazlı kampanya fikirleri ve en çok tercih edilen ürünler üzerinden müşteri bağlılığını artırmaya yönelik stratejiler önerilmiştir.
 
