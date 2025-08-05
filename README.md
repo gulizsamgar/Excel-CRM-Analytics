@@ -13,7 +13,7 @@ Fransa’daki satışlara odaklanan bu analizde; müşteri davranışları, alı
 
 ---
 
-### 2. [Digital Ads – Missing Values, Outliers & CLTV Analysis](02_DigitalAds_Missing Values_Outliers_CLTV_Analysis.xlsx)
+### 2. [Digital Ads – Missing Values, Outliers & CLTV Analysis](02_DigitalAds_Missing_Values_Outliers_CLTV_Analysis.xlsx)
 Dijital reklamların satış üzerindeki etkisi analiz edilmiştir. Kayıp veri yönetimi, aykırı değer tespiti, çoklu regresyon ve CLTV hesaplamaları bu projenin temel unsurlarıdır.
 
 ---
