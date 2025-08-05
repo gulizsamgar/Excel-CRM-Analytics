@@ -43,7 +43,7 @@ gerçekleştirilmiştir. «SeniorCitizen», «Tenure» ve «Contract» değişke
 
 ## 🔗 Notlar
 
-- 1. , 3. ve 4. projeler dosya boyutu nedeniyle GitHub'a yüklenememiştir. Bu nedenle **Google Drive** bağlantıları paylaşılmıştır.
+- /1. 3. ve 4./ projeler dosya boyutu nedeniyle GitHub'a yüklenememiştir. Bu nedenle **Google Drive** bağlantıları paylaşılmıştır.
 - Dosyaların her biri, Excel ortamında CRM analitiği yapabilme yetkinliğini gösterecek şekilde yapılandırılmıştır.
 
 
