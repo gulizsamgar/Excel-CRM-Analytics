@@ -6,7 +6,8 @@ Beş projeden oluşan bu çalışma seti, CRM mantığını kavrama, veri analiz
 
 ## 📁 Projeler
 
-### 1. <a href="https://docs.google.com/spreadsheets/d/144dvvm68eshXwU2oaYaOTrHZLmwHvaJi/edit?usp=drive_link&ouid=109156094529518174311&rtpof=true&sd=true" target="_blank">FlyNetPlus – Online Retail 2010–2011 – Basic Excel Analysis</a> 
+### 1. [Online Retail 2010–2011 – Basic Excel Analysis](https://docs.google.com/spreadsheets/d/144dvvm68eshXwU2oaYaOTrHZLmwHvaJi/edit?usp=drive_link&ouid=109156094529518174311&rtpof=true&sd=true)
+ 
 **Google Drive bağlantılıdır.**  
 Fransa’daki satışlara odaklanan bu analizde; müşteri davranışları, alışveriş sıklığı, ciro dağılımı ve aykırı değerler gibi metrikler temel Excel fonksiyonları ve pivot tablolar kullanılarak incelenmiştir.
 
@@ -17,13 +18,13 @@ Dijital reklamların satış üzerindeki etkisi analiz edilmiştir. Kayıp veri 
 
 ---
 
-### 3.  <a href="https://docs.google.com/spreadsheets/d/1YO1oSpYl0A8E2BBA05ZN2ZUkdytFymez/edit?usp=drive_link&ouid=109156094529518174311&rtpof=true&sd=true" target="_blank">FlyNetPlus – Online Retail – Market Basket Size & RFM Analysis</a> 
+### 3. [Online Retail – Market Basket Size & RFM Analysis](https://docs.google.com/spreadsheets/d/1YO1oSpYl0A8E2BBA05ZN2ZUkdytFymez/edit?usp=drive_link&ouid=109156094529518174311&rtpof=true&sd=true)
 **Google Drive bağlantılıdır.**  
 Sepet büyüklüğü ve müşteri segmentasyonu odaklı bu çalışmada, belirli bir ürün için RFM analizi yapılmış, yancı ürün önerileri ve segment bazlı pazarlama fikirleri geliştirilmiştir.
 
 ---
 
-### 4. <a href="https://docs.google.com/spreadsheets/d/18cxly_CX8TKYL4eY1JxeJjQYBHcpGAiB/edit?usp=drive_link&ouid=109156094529518174311&rtpof=true&sd=true" target="_blank">FlyNetPlus – Customer Satisfaction Analysis</a> 
+### 4. [FlyNetPlus – Customer Satisfaction Analysis](https://docs.google.com/spreadsheets/d/18cxly_CX8TKYL4eY1JxeJjQYBHcpGAiB/edit?usp=drive_link&ouid=109156094529518174311&rtpof=true&sd=true)
 
 **Google Drive bağlantılıdır.**  
 Bir havayolu firmasının müşteri memnuniyet analizini içeren bu projede; yaş, cinsiyet, uçuş mesafesi gibi değişkenlere göre memnuniyet skorları değerlendirilmiş, düşük memnuniyet gösteren segmentlere özel stratejiler önerilmiştir.
