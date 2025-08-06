@@ -2,7 +2,7 @@
 
 Bu repoda, **Excel** kullanılarak hazırlanmış CRM (Customer Relationship Management) analitiği projeleri yer almaktadır. Müşteri segmentasyonu, davranış analizi ve churn riski gibi farklı konulara odaklanan bu çalışmalar, CRM dünyasına dair kapsamlı ve uygulamalı içgörüler sunmaktadır.
 
-Beş projeden oluşan bu çalışma seti, CRM mantığını kavrama, veri analizi becerilerini Excel ortamında geliştirme ve iş odaklı stratejik öneriler oluşturma yetkinliğini göstermeyi amaçlamaktadır.
+Beş vaka analizinden oluşan bu proje seti, CRM mantığını kavrama, veri analizi becerilerini Excel ortamında geliştirme ve iş odaklı stratejik öneriler oluşturma yetkinliğini göstermeyi amaçlamaktadır.
 
 ## 📁 Projeler
 
